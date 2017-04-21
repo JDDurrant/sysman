@@ -1,0 +1,26 @@
+{
+  "name": "sysman",
+  "version": "0.0.1",
+  "description": "System Manager for GNU/Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDDurrant/sysman.git"
+  },
+  "author": "Jack Durrant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JDDurrant/sysman/issues"
+  },
+  "homepage": "https://github.com/JDDurrant/sysman#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-less": "^0.1.0"
+  },
+  "devDependencies": {}
+}
